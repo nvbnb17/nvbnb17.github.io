@@ -10,11 +10,11 @@ sidebar:
 ---
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
 
+---
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
 ---
 gallery_gameplay:
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
-  # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 1"
