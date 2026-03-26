@@ -28,7 +28,8 @@ projects:
     url: /projects/game-jam/
   - title: "Capstone"
     url: /projects/capstone/
-
+  - title: "2D Project"
+    url: /projecs/2d-project/
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"
