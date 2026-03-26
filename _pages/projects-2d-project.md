@@ -17,9 +17,9 @@ in module CRE135: 2D Game Creation.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
-<div style="flex:1 1 250px; min-width:250px;">
+<div style="flex:1 1 500px; min-width:500px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="JlsrWFmhj8E" provider="youtube" %}
 </div>
 </div>
 
