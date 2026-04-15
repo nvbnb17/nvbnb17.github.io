@@ -20,5 +20,6 @@ I was tasked with creating a 2D Game in my first year of university. From this p
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="JlsrWFmhj8E" provider="youtube" %}
 </div>
+  
 </div>
 
