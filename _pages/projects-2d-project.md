@@ -1,5 +1,4 @@
 ---
-title: "2D Project"
 layout: single
 permalink: /projects/2d-project/
 sidebar:
@@ -10,7 +9,7 @@ sidebar:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>1st yr Project Game - 2D Platformer</h2>
+<h2>First Year Project Game - 2D Platformer</h2>
 <p>
 I was tasked with creating a 2D Game in my first year of university. From this project I learned how to design and draw my own sprites it was also my first experience coding in C#.
 </p>
