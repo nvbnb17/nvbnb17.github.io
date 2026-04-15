@@ -24,9 +24,6 @@ feature_row:
     alt: "placeholder image 2"
     title: "2D Game Snapshot"
     excerpt: "This is a screenshot from the 2D Game I created."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/3d-game.png
     alt: "placeholder image 4"
     title: "3D Game Snapshot"
