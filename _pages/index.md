@@ -14,7 +14,7 @@ header:
 
 excerpt: "You can add text here."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'My name is Ben and I am an aspiring games developer in my first year of University, I have a passion for the programming side of development and im looking for more opportunities to develop my skills.'
 feature_row:
   - image_path: /assets/images/board-game.png
     alt: "placeholder image 1"
