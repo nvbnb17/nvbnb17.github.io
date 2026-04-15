@@ -12,8 +12,7 @@ sidebar:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+I was tasked with creating a 2D Game in my first year of university. From this project I learned how to design and draw my own sprites it was also my first experience coding in C#.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
