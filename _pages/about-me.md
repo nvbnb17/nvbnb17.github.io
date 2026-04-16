@@ -30,5 +30,13 @@ skills:
       As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
     </p>
   </div>
+  
+  <div style="flex:1 1 250px; min-width:250px;">
+    <h4>1st yr Project Game - 2D Platformer</h4>
+    <p>
+      As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
+    </p>
+  </div>
+  
 
 </div>
