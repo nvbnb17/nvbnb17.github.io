@@ -9,6 +9,11 @@ main:
         url: /projects/2d-project/
       - title: "3D Project"
         url: /projects/3d-project/
+  - title: "About Me"
+        url: /about-me/
+    children:
+      - title: "Skills"
+        url: /about-me/skills/ 
   - title: "Pages"
     url: /pages/
     children:
@@ -20,12 +25,7 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-  - title: "About Me"
-    url: /about-me/
-    children:
-      - title: "Skills"
-        url: /about-me/skills/
-  
+
     
 
 # Sidebar menu for the Projects page
