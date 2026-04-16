@@ -24,7 +24,7 @@ main:
     url: /about-me/
     children:
       - title: "Skills"
-        url: /aboutme/skills/
+        url: /about-me/skills/
   
     
 
