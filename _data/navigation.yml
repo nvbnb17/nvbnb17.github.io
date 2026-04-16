@@ -9,7 +9,7 @@ main:
         url: /projects/2d-project/
       - title: "3D Project"
         url: /projects/3d-project/
-  - title: "About Me"
+   - title: "About Me"
         url: /about-me/
     children:
       - title: "Skills"
