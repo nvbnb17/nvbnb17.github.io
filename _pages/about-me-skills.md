@@ -18,6 +18,11 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
+  - name: "Blender"
+    icon: "fa-solid fa-blender"
+    badges: ["Player Models", "Weapon models", "Environments"]
+    text: "Designed models."
+    level_label: "Beginner"
 ---
 
 {% include skills skills=page.skills %}
