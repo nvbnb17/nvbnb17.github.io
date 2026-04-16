@@ -5,7 +5,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-     
+---  
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
