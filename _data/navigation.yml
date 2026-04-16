@@ -22,8 +22,6 @@ main:
     url: /components/
   - title: "About Me"
     url: /about-me/
-    - title: "About Me"
-    url: /about-me/
     children:
      - title: "Default Layout"
         url: /pages/default/
