@@ -14,7 +14,7 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 ---
-<div style="display:flex; flex-wrap:wrap; gap:10rem; align-items:flex-start;">
+<div style="display:flex; flex-wrap:wrap; gap:1rem; align-items:flex-start;">
 
   <!-- LEFT: text content -->
   <div style="flex:1 1 150px; min-width:150px;">
