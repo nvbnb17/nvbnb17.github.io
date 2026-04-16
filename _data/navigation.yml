@@ -44,6 +44,6 @@ pages:
     url: /pages/splash/
 # Sidebar menu for about me page
 about-me:
- - title: "Skills"
+  - title: "Skills"
     url: /about-me/skills/
 
