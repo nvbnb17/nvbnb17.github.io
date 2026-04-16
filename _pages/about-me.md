@@ -32,7 +32,7 @@ skills:
   </div>
   
   <div style="flex:3 3 250px; min-width:250px;">
-    <h2>1st yr Project Game - 2D Platformer</h2>
+    <h4>1st yr Project Game - 2D Platformer</h4>
     <p>
       As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
     </p>
