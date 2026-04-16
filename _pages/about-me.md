@@ -5,5 +5,5 @@ permalink: /about-me/
 sidebar:
   title: "About Me"
   nav:
-    - aboutme
+    - about-me
 ---
