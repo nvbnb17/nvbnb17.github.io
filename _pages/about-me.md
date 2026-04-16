@@ -17,21 +17,21 @@ skills:
 <div style="display:flex; flex-wrap:wrap; gap:3rem; align-items:flex-start;">
 
   <!-- LEFT: text content -->
-  <div style="flex:1 1 250px; min-width:250px;">
+  <div style="flex:1 1 150px; min-width:150px;">
     <h2>1st yr Project Game - 2D Platformer</h2>
     <p>
       As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
     </p>
   </div>
 
-<div style="flex:2 2 250px; min-width:250px;">
+<div style="flex:2 2 150px; min-width:150px;">
     <h3>1st yr Project Game - 2D Platformer</h3>
     <p>
       As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
     </p>
   </div>
   
-  <div style="flex:3 3 250px; min-width:250px;">
+  <div style="flex:3 3 150px; min-width:150px;">
     <h4>1st yr Project Game - 2D Platformer</h4>
     <p>
       As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
