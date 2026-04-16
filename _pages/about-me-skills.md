@@ -20,3 +20,4 @@ skills:
     level_label: "Beginner"
 ---
 
+{% include skills skills=page.skills %}
