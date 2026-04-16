@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Home"
 layout: splash
 permalink: /
 header:
