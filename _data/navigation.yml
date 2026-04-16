@@ -24,7 +24,7 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
- - title: "2D Project"
+  - title: "2D Project"
     url: /projects/2d-project/
   - title: "3D Project"
     url: /projects/3d-project/
