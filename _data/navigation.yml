@@ -10,7 +10,7 @@ main:
       - title: "3D Project"
         url: /projects/3d-project/
    - title: "About Me"
-        url: /about-me/
+     url: /about-me/
     children:
       - title: "Skills"
         url: /about-me/skills/ 
