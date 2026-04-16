@@ -29,3 +29,4 @@ skills:
     <p>
       As part of a team, I helped design and build a 2D Platform game for my course in module CRE135: 2D Game Creation.
     </p>
+ </div>
