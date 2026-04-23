@@ -9,6 +9,8 @@ main:
         url: /projects/2d-project/
       - title: "3D Project"
         url: /projects/3d-project/
+      - title: "Board Game" 
+        url: /projects/board-game/
   - title: "About Me"
     url: /about-me/
     children:
@@ -34,6 +36,8 @@ projects:
     url: /projects/2d-project/
   - title: "3D Project"
     url: /projects/3d-project/
+  - title: "Board Game"
+    url: /projects/board-game/
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"
