@@ -9,7 +9,7 @@ sidebar:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>First Year Project Game - 3D Platformer</h2>
+<h2>First Year Project  - Board Game</h2>
 <p>
 I was tasked with creating a 3D level design for the second module of my first year in University. The assets created in this level were done using unitys ProBuilder tools, which gave me good experience with 3d level creation in unity.
 </p>
