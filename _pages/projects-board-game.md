@@ -11,7 +11,7 @@ sidebar:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>First Year Project Game - 3D Platformer</h2>
 <p>
-I was tasked with creating a 3D level design for the second module of my first year in University. The assets created in this level were done using unitys ProBuilder tools, which gave me good experience with 3d level creation in unity.
+I was tasked with creating a Board Game for a module in my first year at university, This process involved designing a board game with a fun gameplay loop and printing out and playtesting a prototype.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
