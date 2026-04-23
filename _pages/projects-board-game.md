@@ -17,7 +17,7 @@ I was tasked with creating a Board Game for a module in my first year at univers
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 500px; min-width:500px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="Kgpi_uYxdF4" provider="youtube" %}
+{% include figure image_path="/assets/images/board-game.png" alt="Board for Hobgoblin Horde" caption="This is a caption" %}
 </div>
   
 </div>
