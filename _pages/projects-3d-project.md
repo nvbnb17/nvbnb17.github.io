@@ -11,6 +11,21 @@ gallery_3DProject:
     alt: "Gameplay 1"
     title: "Core loop"
     caption: "Core loop"
+ - url: /3DGallery/3D-1.png
+    image_path: /3DGallery/3D-1.png
+    alt: "Gameplay 1"
+    title: "Core loop"
+    caption: "Core loop"
+ - url: /3DGallery/3D-1.png
+    image_path: /3DGallery/3D-1.png
+    alt: "Gameplay 1"
+    title: "Core loop"
+    caption: "Core loop"
+ - url: /3DGallery/3D-1.png
+    image_path: /3DGallery/3D-1.png
+    alt: "Gameplay 1"
+    title: "Core loop"
+    caption: "Core loop"
 ---
 
 <h2>First Year Project  - 3D Level Design</h2>
