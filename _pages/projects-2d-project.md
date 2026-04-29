@@ -17,8 +17,8 @@ gallery_2DProject:
     title: "Pro Builder Gingerbread House"
     caption: "Pro Builder Gingerbread House"
     gallery_2DProject:
-  - url: /2DGallery/2D-3.png
-    image_path: /2DGallery/2D-3.png
+  - url: /2DGallery/2D-5.png
+    image_path: /2DGallery/2D-5.png
     alt: "Gameplay 3"
     title: "Pro Builder Gingerbread House"
     caption: "Pro Builder Gingerbread House"
