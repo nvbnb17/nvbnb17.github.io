@@ -16,6 +16,8 @@ main:
     children:
       - title: "Skills"
         url: /about-me/skills/ 
+      - title: "Contact Me"
+        url: /about-me/contact-me/ 
   - title: "Pages"
     url: /pages/
     children:
@@ -50,4 +52,6 @@ pages:
 about-me:
   - title: "Skills"
     url: /about-me/skills/
+  - title: "Contact Me"
+    url: /about-me/contact-me/ 
 
