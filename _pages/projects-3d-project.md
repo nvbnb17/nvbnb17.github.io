@@ -33,7 +33,7 @@ gallery_3DProject:
 I was tasked with creating a 3D level design for the second module of my first year in University. The assets created in this level were done using unitys ProBuilder tools, which gave me good experience with 3d level creation in unity.
 </p>
 
-{% include gallery id="gallery_3DProject" layout="third" thumb_height="250px" %}
+{% include gallery id="gallery_3DProject" layout="third" thumb_height="180px" %}
 
 <div style="flex:1 1 150px; min-width:150px;">
 {% include video id="Kgpi_uYxdF4" provider="youtube" %}
