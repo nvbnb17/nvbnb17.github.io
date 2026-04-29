@@ -8,4 +8,4 @@ sidebar:
     - about-me
 ---
 
-{% include google-form title="Contact Me" src="https://forms.gle/6xTChojkoi3XaV686" height="800" %}
+{% include google-form title="Contact Me" src="https://docs.google.com/forms/d/e/1FAIpQLSdmKUFuRiFB7dw59OxZq5zwm2yDaph48XQd-He8w3x91RieGw/viewform?usp=dialog" height="800" %}
