@@ -5,6 +5,12 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+gallery_3DProject:
+  - url: /assets/images/placeholder.png
+    image_path: /assets/images/placeholder.png
+    alt: "Gameplay 1"
+    title: "Core loop"
+    caption: "Core loop"
 ---
 
 <h2>First Year Project  - 3D Level Design</h2>
@@ -17,6 +23,5 @@ I was tasked with creating a 3D level design for the second module of my first y
   
 </div>
 
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_3DProject" layout="third" thumb_height="180px" %}
 
-</div>
