@@ -11,16 +11,16 @@ gallery_3DProject:
     alt: "Gameplay 1"
     title: "Pro Builder Gingerbread House"
     caption: "Pro Builder Gingerbread House"
-  - url: /3DGallery/3D-1.png
+  - url: /3DGallery/3D-2.png
     image_path: /3DGallery/3D-2.png
     alt: "Gameplay 2"
     title: "Blender Candy Cane Model"
     caption: "Blender Candy Cane Model"
-  - url: /3DGallery/3D-1.png
-    image_path: /3DGallery/3D-1.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /3DGallery/3D-3.png
+    image_path: /3DGallery/3D-3.png
+    alt: "Gameplay 3"
+    title: "Interior Design"
+    caption: "Interior Design"
   - url: /3DGallery/3D-1.png
     image_path: /3DGallery/3D-1.png
     alt: "Gameplay 1"
