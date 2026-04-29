@@ -21,11 +21,11 @@ gallery_3DProject:
     alt: "Gameplay 3"
     title: "Interior Design"
     caption: "Interior Design"
-  - url: /3DGallery/3D-1.png
-    image_path: /3DGallery/3D-1.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+  - url: /3DGallery/3D-4.png
+    image_path: /3DGallery/3D-4.png
+    alt: "Gameplay 4"
+    title: "Gumdrop Mountain Model"
+    caption: "Gumdrop Mountain Model"
 ---
 
 <h2>First Year Project  - 3D Level Design</h2>
