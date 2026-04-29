@@ -9,12 +9,12 @@ gallery_3DProject:
   - url: /3DGallery/3D-1.png
     image_path: /3DGallery/3D-1.png
     alt: "Gameplay 1"
-    title: "Core loop"
+    title: "Pro Builder Gingerbread House"
     caption: "Core loop"
   - url: /3DGallery/3D-1.png
-    image_path: /3DGallery/3D-1.png
-    alt: "Gameplay 1"
-    title: "Core loop"
+    image_path: /3DGallery/3D-2.png
+    alt: "Gameplay 2"
+    title: "Blender Candy Cane Model"
     caption: "Core loop"
   - url: /3DGallery/3D-1.png
     image_path: /3DGallery/3D-1.png
