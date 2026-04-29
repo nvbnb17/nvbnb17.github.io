@@ -3,7 +3,7 @@ title: "Contact Me"
 layout: single
 permalink: /about-me/contact-me/
 sidebar:
-  title: "Contact Me"
+  title: "About me"
   nav:
     - about-me
 ---
