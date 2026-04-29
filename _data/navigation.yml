@@ -18,19 +18,8 @@ main:
         url: /about-me/skills/ 
       - title: "Contact Me"
         url: /about-me/contact-me/ 
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
 
-    
+   
 
 # Sidebar menu for the Projects page
 projects:
@@ -40,14 +29,6 @@ projects:
     url: /projects/3d-project/
   - title: "Board Game"
     url: /projects/board-game/
-# Sidebar menu for the Pages page
-pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/
 # Sidebar menu for about me page
 about-me:
   - title: "Skills"
