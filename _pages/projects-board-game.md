@@ -4,8 +4,7 @@ permalink: /projects/board-game/
 sidebar:
   title: "Board Game"
   nav:
-    - projects  - url: /3DGallery/3D-1.png
-    
+    - projects
 gallery_Cards:
   - url: /BoardGameGallery/sneak-card.png
     image_path: /BoardGameGallery/sneak-card.png
