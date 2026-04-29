@@ -17,3 +17,6 @@ I was tasked with creating a 3D level design for the second module of my first y
   
 </div>
 
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+
+</div>
