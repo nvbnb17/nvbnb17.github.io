@@ -9,25 +9,25 @@ gallery_2DProject:
   - url: /2DGallery/2D-1.png
     image_path: /2DGallery/2D-1.png
     alt: "Gameplay 1"
-    title: "Pro Builder Gingerbread House"
-    caption: "Pro Builder Gingerbread House"
+    title: "Background Design"
+    caption: "Background Design"
   - url: /2DGallery/2D-2.png
     image_path: /2DGallery/2D-2.png
     alt: "Gameplay 2"
-    title: "Pro Builder Gingerbread House"
-    caption: "Pro Builder Gingerbread House"
+    title: "Enemy Design"
+    caption: "Enemy Design"
     gallery_2DProject:
   - url: /2DGallery/2D-5.png
     image_path: /2DGallery/2D-5.png
     alt: "Gameplay 3"
-    title: "Pro Builder Gingerbread House"
-    caption: "Pro Builder Gingerbread House"
+    title: "Health Pickup"
+    caption: "Health Pickup"
     gallery_2DProject:
   - url: /2DGallery/2D-4.png
     image_path: /2DGallery/2D-4.png
     alt: "Gameplay 4"
-    title: "Pro Builder Gingerbread House"
-    caption: "Pro Builder Gingerbread House"
+    title: "Ghost Box Win Condition"
+    caption: "Ghost Box Win Condition"
 
 ---  
 <h2>First Year Project Game - 2D Platformer</h2>
