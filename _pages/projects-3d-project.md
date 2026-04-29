@@ -6,8 +6,8 @@ sidebar:
   nav:
     - projects
 gallery_3DProject:
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
+  - url: /3DGallery/3D-1.png
+    image_path: /3DGallery/3D-1.png
     alt: "Gameplay 1"
     title: "Core loop"
     caption: "Core loop"
