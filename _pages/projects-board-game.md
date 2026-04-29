@@ -25,6 +25,10 @@ I was tasked with creating a Board Game for a module in my first year at univers
 
 {% include gallery id="gallery_Cards" layout="half" thumb_height="180px" %}
 
+<p>
+Hobgoblin Horde is played with two people, a Goblin player who uses their trap and sneak cards to get to the end of the board and the Hobgoblin player whos job is to place a trap card to catch the goblin player and win the game. 
+</p>
+
 {% include figure image_path="/assets/images/board-game.png" alt="Board for Hobgoblin Horde" caption="Board for Hobgoblin Horde" %}
   
 
