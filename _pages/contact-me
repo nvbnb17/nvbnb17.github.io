@@ -1,1 +1,11 @@
+---
+title: "Contact Me"
+layout: single
+permalink: /about-me/contact-me/
+sidebar:
+  title: "Contact Me"
+  nav:
+    - about-me
+---
 
+{% include google-form src="https://forms.gle/XsbApFoRjn7r24jy6" height="800" %}
