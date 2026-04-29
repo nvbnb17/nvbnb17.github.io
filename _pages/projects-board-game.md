@@ -11,11 +11,11 @@ gallery_Cards:
     alt: "Sneak Card"
     title: "Sneak Card"
     caption: "Sneak Card"
-  - url: /BoardGameGallery/trap-card.png
-    image_path: /BoardGameGallery/trap-card.png
-    alt: "Trap Card"
-    title: "Trap Card"
-    caption: "Trap Card"
+  - url: /BoardGameGallery/work-card.png
+    image_path: /BoardGameGallery/work-card.png
+    alt: "Work Card"
+    title: "Work Card"
+    caption: "Work Card"
 ---
 <h2>First Year Project  - Board Game</h2>
 <p>
