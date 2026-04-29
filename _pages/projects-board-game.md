@@ -7,16 +7,16 @@ sidebar:
     - projects  - url: /3DGallery/3D-1.png
     
 gallery_Cards:
-  - url: /3DGallery/3D-1.png
-    image_path: /3DGallery/3D-1.png
-    alt: "Gameplay 1"
-    title: "Pro Builder Gingerbread House"
-    caption: "Pro Builder Gingerbread House"
-  - url: /3DGallery/3D-2.png
-    image_path: /3DGallery/3D-2.png
-    alt: "Gameplay 2"
-    title: "Blender Candy Cane Model"
-    caption: "Blender Candy Cane Model"
+  - url: /BoardGameGallery/sneak-card.png
+    image_path: /BoardGameGallery/sneak-card.png
+    alt: "Sneak Card"
+    title: "Sneak Card"
+    caption: "Sneak Card"
+  - url: /BoardGameGallery/trap-card.png
+    image_path: /BoardGameGallery/trap-card.png
+    alt: "Trap Card"
+    title: "Trap Card"
+    caption: "Trap Card"
 ---
 <h2>First Year Project  - Board Game</h2>
 <p>
