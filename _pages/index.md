@@ -12,7 +12,6 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
 intro: 
   - excerpt: 'My name is Ben and I am an aspiring games developer in my first year of University, I have a passion for the programming side of development and im looking for more opportunities to develop my skills.'
 feature_row:
