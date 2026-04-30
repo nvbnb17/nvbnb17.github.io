@@ -8,7 +8,7 @@ sidebar:
     - projects
 ---
 
-Welcome to the projects page. This is where you can list you see all of the projects that I have been working on during my time at University.
+Welcome to the projects page this is where you can see all of the projects that I have been working on during my time at University.
 
 
 
